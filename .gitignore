@@ -1,3 +1,6 @@
 .env
 /backend/data/data.json
 /backend/data/tempdata.json
+venv/
+__pycache__/
+*.pyc
