@@ -27,8 +27,12 @@ const Stylesheet = () => (
   `}</style>
 );
 
+<<<<<<< HEAD
 // Glowing Logo Component
 // Web3GlowLogo component ko is se replace kar do
+=======
+
+>>>>>>> e7168dcf605e9c92dcf4e8c62f09a9323eeeb87c
 const Web3GlowLogo = () => (
   <div
     style={{
